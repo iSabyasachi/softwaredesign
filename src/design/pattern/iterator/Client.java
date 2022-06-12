@@ -1,6 +1,7 @@
 package design.pattern.iterator;
 /*
- * An iterator is formally defined as a pattern that allows traversing the elements of an aggregate or a collection sequentially without exposing the underlying implementation.
+ * An iterator is formally defined as a pattern that allows traversing the elements of an 
+ * aggregate or a collection sequentially without exposing the underlying implementation.
  * */
 public class Client {
 	
