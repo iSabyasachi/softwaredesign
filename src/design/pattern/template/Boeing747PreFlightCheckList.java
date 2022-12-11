@@ -12,5 +12,8 @@ public class Boeing747PreFlightCheckList extends AbstractPreFlightCheckList{
 		// Boeing-747 has doors
         // so check if the door closed;
 		return false;
+		
 	}
+	
+	
 }

@@ -1,0 +1,7 @@
+Why we need SOLID principles?
+
+1. To reduce dependencies so that engineers change one area of software without impacting others.
+2. To make designs easier to understand, maintain, and extend.
+3. to avoid issues and to build adaptive, effective, and agile software.
+
+They lead to better code for readability, maintainability, design patterns, and testability.
